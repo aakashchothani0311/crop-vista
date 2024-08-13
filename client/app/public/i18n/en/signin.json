@@ -1,0 +1,8 @@
+{
+    "signin.label.username": "Username",
+    "signin.label.password": "Password",
+    "signin.title": "Sign In",
+    "signin.button.label": "Sign In",
+    "signin.signup.label": "Don't have an account? Sign Up",
+    "signin.label.forgotpass": "Forgot password?"
+}

@@ -1,0 +1,16 @@
+{
+    "supplyview.grid.typo": "No supplies/ demands exist for the market.",
+    "supplyview.header.crop": "Crop",
+    "supplyview.header.grade": "Grade",
+    "supplyview.header.quantity": "Quantity:(q)",
+    "supplyview.header.created": "Created On",
+    "supplyview.header.timeline": "Fulfillment Timeline:(days)",
+    "supplyview.header.remaining.days": "Remaining Days:(days)",
+    "supplyview.response.key.action.button.value": "Action",
+    "supplyview.create.supply.button.label": "Create Supply",
+    "supplyview.dialog.title": "New Supply",
+    "supplyview.txtfield.label.timeline": "Enter number of days",
+    "supplyview.dialog.txtfield.input.adornment": "quintal",
+    "supplyview.dialog.button.confirm":"Confirm",
+    "supplyview.dialog.button.cancel": "Cancel"
+}

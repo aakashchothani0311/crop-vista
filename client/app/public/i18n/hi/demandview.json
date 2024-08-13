@@ -1,0 +1,15 @@
+{
+    "demandview.header.crop": "फसल",
+    "demandview.header.grade": "ग्रेड",
+    "demandview.header.quantity": "मात्रा:(q)",
+    "demandview.header.created": "बनाया गया",
+    "demandview.header.timeline": "पूर्ति समयरेखा:(दिन)",
+    "demandview.header.remaining.days": "शेष दिन:(दिन)",
+    "demandview.create.demand.button.label": "मांग बनाएँ",
+    "demandview.grid.typo": "कोई मांग नहीं बनाई गई। मांग बनाएं बटन का उपयोग करके नई मांग बनाएं",
+    "demandview.dialog.title": "नई मांग",
+    "demandview.dialog.txtfield.input.adornment": "क्विंटल",
+    "demandview.timeline.label": "दिनों की संख्या दर्ज करें",
+    "demandview.confirm.button": "पुष्टि करना",
+    "demandview.cancel.button": "रद्द करना"
+}

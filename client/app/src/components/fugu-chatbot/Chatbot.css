@@ -1,0 +1,81 @@
+/* chatbox.css */
+.chatbox {
+    display: flex;
+    flex-direction: column;
+    max-height: 80vh;
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.messages {
+    flex: 1;
+    padding: 10px;
+    background: #f9f9f9;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    max-height: 300px;
+}
+
+.messages .message {
+    padding: 8px;
+    margin-bottom: 4px;
+    border-radius: 8px; 
+    max-width: 70%;
+}
+
+.messages .message.me {
+    align-self: flex-end;
+    background: #d1ffd4;
+    border-top-right-radius: 12;
+    border-top-left-radius: 12px; 
+    border-bottom-right-radius: 0; 
+    border-bottom-left-radius: 12px;
+    border-right: 4px solid #d1ffd4; 
+}
+
+.messages .message.them {
+    align-self: flex-start;
+    background: #e0e0e0;
+    border-top-left-radius: 12; 
+    border-top-right-radius: 12px; 
+    border-bottom-left-radius: 0; 
+    border-bottom-right-radius: 12px;
+    border-left: 4px solid #e0e0e0; 
+}
+
+.compose {
+    padding: 10px;
+    background: #fff;
+    border-top: 1px solid #ddd;
+}
+
+.compose form {
+    display: flex;
+    align-items: center;
+}
+
+.compose input {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.compose button {
+    margin-left: 8px;
+    padding: 8px 12px;
+    background: #007bff;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.compose button svg {
+    vertical-align: middle;
+    margin-right: 4px;
+}

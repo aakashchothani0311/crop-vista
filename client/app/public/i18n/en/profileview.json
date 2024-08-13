@@ -1,0 +1,16 @@
+{
+    "profileview.box.title": "Profile",
+    "profileview.grid.txtfield.label.name": "Name",
+    "profileview.grid.txtfield.label.username": "Username",
+    "profileview.grid.txtfield.label.email": "Email Address",
+    "profileview.grid.txtfield.label.street1": "Address Street 1",
+    "profileview.grid.txtfield.label.street2": "Address Street 2",
+    "profileview.grid.txtfield.label.city": "City",
+    "profileview.grid.txtfield.label.state": "State",
+    "profileview.grid.txtfield.label.zip": "Zip Code",
+    "profileview.grid.txtfield.label.country": "Country",
+    "profileview.grid.txtfield.label.password": "Password",
+    "profileview.box.button.update.profile": "Update Profile",
+    "profileview.box.grid.link.resetpassword": "Update password"
+    
+}

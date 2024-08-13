@@ -1,0 +1,15 @@
+{
+    "signup.password.error": "पासवर्ड 6 से 20 अक्षर लंबा होना चाहिए जिसमें एक संख्यात्मक, 1 छोटा अक्षर और 1 बड़ा अक्षर होना चाहिए",
+    "signup.title": "साइन अप करें",
+    "signup.name": "नाम",
+    "signup.username":"उपयोगकर्ता नाम",
+    "signup.menu.label":"आपका पेशा...",
+    "signup.menu.farmer":"किसान",
+    "signup.menu.distributor":"वितरक",
+    "signup.menu.company":"कंपनी",
+    "signup.email.address":"ईमेल एड्रेस",
+    "signup.txtfield.label.password": "पासवर्ड",
+    "signup.button.label": "साइन अप करें",
+    "signup.signin.label": "पहले से ही एक खाता है? साइन इन करें",
+    "signup.forgotpass.label": "पासवर्ड भूल गए?"
+}

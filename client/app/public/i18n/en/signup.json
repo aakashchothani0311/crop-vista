@@ -1,0 +1,15 @@
+{
+    "signup.password.error": "Password should be 6 to 20 characters long with a numeric, 1 lowercase and 1 uppercase letter",
+    "signup.title": "Sign Up",
+    "signup.name": "Name",
+    "signup.username": "Username",
+    "signup.menu.label":"You are a...",
+    "signup.menu.farmer":"Farmer",
+    "signup.menu.distributor":"Distributor",
+    "signup.menu.company":"Company",
+    "signup.email.address": "Email Address",
+    "signup.txtfield.label.password": "Password",
+    "signup.button.label": "Sign Up",
+    "signup.signin.label": "Already have an account? Sign in",
+    "signup.forgotpass.label": "Forgot password?"
+}

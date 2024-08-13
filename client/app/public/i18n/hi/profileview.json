@@ -1,0 +1,16 @@
+{
+    "profileview.box.title": "प्रोफ़ाइल",
+    "profileview.grid.txtfield.label.name": "नाम",
+    "profileview.grid.txtfield.label.username": "उपयोगकर्ता नाम",
+    "profileview.grid.txtfield.label.email": "ईमेल पता",
+    "profileview.grid.txtfield.label.street1": "पता गली १",
+    "profileview.grid.txtfield.label.street2": "पता गली २",
+    "profileview.grid.txtfield.label.city": "शहर",
+    "profileview.grid.txtfield.label.state": "राज्य",
+    "profileview.grid.txtfield.label.zip": "ज़िप कोड",
+    "profileview.grid.txtfield.label.country": "देश",
+    "profileview.grid.txtfield.label.password": "पासवर्ड",
+    "profileview.box.button.update.profile": "प्रोफ़ाइल अपडेट करें",
+    "profileview.box.grid.link.resetpassword": "अपडेट पासवर्ड"
+    
+}

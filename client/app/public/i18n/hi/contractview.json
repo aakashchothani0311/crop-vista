@@ -1,0 +1,10 @@
+{
+    "contractview.proccontracts.account.role.distributor":"वितरक: ",
+    "contractview.proccontracts.account.role.farmer": "किसान: ",
+    "contractview.proccontracts.account.role.company": "कंपनी: ",
+    "contractview.proccontracts.grid.crop": "फसल: ",
+    "contractview.proccontracts.grid.contract.date": "अनुबंध दिनांक:",
+    "contractview.proccontracts.grid.button": "अनुबंध देखें",
+    "contractview.typo.title": "मेरे अनुबंध",
+    "contractview.typo.no.contract": "आपके पास अभी तक कोई अनुबंध नहीं है।"
+}

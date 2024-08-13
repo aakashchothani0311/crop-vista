@@ -1,0 +1,8 @@
+{
+    "signin.label.username": "उपयोगकर्ता नाम",
+    "signin.label.password": "पासवर्ड",
+    "signin.title": "साइन इन करें",
+    "signin.button.label": "साइन इन करें",
+    "signin.signup.label": "क्या आपके पास कोई खाता नहीं है? साइन अप करें",
+    "signin.label.forgotpass": "पासवर्ड भूल गए?"
+}

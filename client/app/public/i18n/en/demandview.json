@@ -1,0 +1,15 @@
+{
+    "demandview.header.crop": "Crop",
+    "demandview.header.grade": "Grade",
+    "demandview.header.quantity": "Quantity:(q)",
+    "demandview.header.created": "Created On",
+    "demandview.header.timeline": "Fulfillment Timeline:(days)",
+    "demandview.header.remaining.days": "Remaining Days:(days)",
+    "demandview.create.demand.button.label": "Create Demand",
+    "demandview.grid.typo": "No demands created. Create new demand using the Create Demand button",
+    "demandview.dialog.title": "New Demand",
+    "demandview.dialog.txtfield.input.adornment": "quintal",
+    "demandview.timeline.label": "Enter number of days",
+    "demandview.confirm.button": "Confirm",
+    "demandview.cancel.button": "Cancel"
+}

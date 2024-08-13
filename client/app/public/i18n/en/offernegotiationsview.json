@@ -1,0 +1,26 @@
+{
+    "offernegotiationsview.header.crop": "Crop",
+    "offernegotiationsview.header.grade": "Grade",
+    "offernegotiationsview.header.company": "Company",
+    "offernegotiationsview.header.distributor": "Distributor",
+    "offernegotiationsview.header.farmer": "Farmer",
+    "offernegotiationsview.header.quantity": "Quantity:(q)",
+    "offernegotiationsview.header.msp": "MSP:($)",
+    "offernegotiationsview.header.distoffer": "Distributor Offer:($ / q)",
+    "offernegotiationsview.header.farmeroffer": "Farmer Offer:($ / q)",
+    "offernegotiationsview.header.confirmation": "Confirmation",
+    "offernegotiationsview.header.status": "Status",
+    "offernegotiationsview.response.key.confirm.button.value": "I Agree",
+    "offernegotiationsview.typo.title.offers": "My Offers",
+    "offernegotiationsview.typo.title.negotiations": "My Negotiations",
+    "offernegotiationsview.gird.no.data.show": "No offers created. Create new offers using the Create Offer button.",
+    "offernegotiationsview.title": "Create Offer",
+    "offernegotiationsview.dailog.title": "New Offer",
+    "offernegotiationsview.dailog.txtfield.label.qty": "Quantity (q)",
+    "offernegotiationsview.dailog.txtfield.label.price": "Price ($)",
+    "offernegotiationsview.dailog.button.confirm": "Confirm",
+    "offernegotiationsview.dailog.button.cancel": "Cancel",
+    "offernegotiationsview.header.companyoffer": "Company Offer"
+    
+
+}

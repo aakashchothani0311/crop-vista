@@ -1,0 +1,16 @@
+{
+    "supplyview.grid.typo": "बाज़ार में कोई आपूर्ति/मांग मौजूद नहीं है।",
+    "supplyview.header.crop": "फसल",
+    "supplyview.header.grade": "ग्रेड",
+    "supplyview.header.quantity": "मात्रा:(q)",
+    "supplyview.header.created": "बनाया गया",
+    "supplyview.header.timeline": "पूर्ति समयरेखा:(दिन)",
+    "supplyview.header.remaining.days": "शेष दिन:(दिन)",
+    "supplyview.response.key.action.button.value": "कार्रवाई",
+    "supplyview.create.supply.button.label": "आपूर्ति बनाएँ",
+    "supplyview.dialog.title": "नई आपूर्ति",
+    "supplyview.dialog.txtfield.input.adornment": "क्विंटल",
+    "supplyview.txtfield.label.timeline": "दिनों की संख्या दर्ज करें",
+    "supplyview.dialog.button.confirm":"पुष्टि करें",
+    "supplyview.dialog.button.cancel": "रद्द करें"
+}

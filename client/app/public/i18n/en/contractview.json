@@ -1,0 +1,10 @@
+{
+    "contractview.proccontracts.account.role.distributor":"Distributor: ",
+    "contractview.proccontracts.account.role.farmer": "Farmer: ",
+    "contractview.proccontracts.account.role.company": "Company: ",
+    "contractview.proccontracts.grid.crop": "Crop: ",
+    "contractview.proccontracts.grid.contract.date": "Contract Date:",
+    "contractview.proccontracts.grid.button": "View Contract",
+    "contractview.typo.title": "My Contracts",
+    "contractview.typo.no.contract": "You do not have any contracts yet."
+}
