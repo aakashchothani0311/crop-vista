@@ -13,7 +13,6 @@ This is a Progressive Web App (PWA) based on MERN stack & uses Vite as a build f
 - Express
 - Mongoose
 - REST API
-- Bruno
 
 3. Frontend:
 - React
