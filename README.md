@@ -25,7 +25,7 @@ This is a Progressive Web App (PWA) based on MERN stack & uses Vite as a build f
 - CSS
 - Vite
 
-## Instructions to run:
+## Instructions to run
 1. Server:
 - Navigate to the server directory: cd server.
 - Run **npm install** to install the required node modules.
@@ -35,9 +35,9 @@ This is a Progressive Web App (PWA) based on MERN stack & uses Vite as a build f
 2. Client Side:
 - Navigate to the client directory: cd client/app.
 - Run **npm install** to install the necessary node modules.
-- Start the application with **npm run dev**, which will host it at http://localhost:4000/ as specified in the Vite configuration fiel.
+- Start the application with **npm run dev**, which will host it at http://localhost:4000/ as specified in the Vite configuration file.
 
-## Node packages that will be installed:
+## Node packages that will be installed
 1. Server:
 - **cors:** to enable Cross-Origin Resource Sharing for secure API access.
 - **debug:** to provide a debugging utility for Node.js applications.
@@ -58,7 +58,7 @@ This is a Progressive Web App (PWA) based on MERN stack & uses Vite as a build f
 - **react-redux:** to connect Redux with React components.
 - **react-router-dom:** to manage routing in React applications.
 
-## Domain Model:
+## Domain Model
 
 ```mermaid
 classDiagram
