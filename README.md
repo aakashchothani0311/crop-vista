@@ -5,17 +5,17 @@ The idea proposes to provide a digital solution, to bring the farmers, MNCs and 
 
 ## Tech Stack
 This is a Progressive Web App (PWA) based on MERN stack & uses Vite as a build framework - 
-1. Database:
+#### Database:
 - MongoDB
 
-2. Backend:
+#### Backend:
 - Node.js
 - Express
 - Mongoose
 - REST API
 - JavaScript
 
-3. Frontend:
+#### Frontend:
 - React
 - Redux
 - MUI
@@ -39,14 +39,14 @@ This is a Progressive Web App (PWA) based on MERN stack & uses Vite as a build f
 3. Start the application with **npm run dev**, which will host it at http://localhost:4000/ as specified in the Vite configuration file.
 
 ## Node packages that will be installed
-1. Server:
+#### Server:
 - **cors:** to enable Cross-Origin Resource Sharing for secure API access.
 - **debug:** to provide a debugging utility for Node.js applications.
 - **dotenv:** to load environment variables from a .env file.
 - **express:** a web application framework for Node.js.
 - **mongoose:** to provide a MongoDB object modeling tool for Node.js.
 
-2. Client:
+#### Client:
 - **@emotion/react & @emotion/styled:** utilities for styling components with Emotion.
 - **@mui:** Material Design components and icons for React.
 - **@reduxjs/toolkit:** to simplify Redux state management.
