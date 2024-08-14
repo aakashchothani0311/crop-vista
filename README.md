@@ -26,7 +26,6 @@ This is a Progressive Web App (PWA) based on MERN stack & uses Vite as a build f
 - Vite
 
 ## Setup
-
 #### Server:
 1. Navigate to the server directory: **cd server**.
 2. Run **npm install** to install the required node modules.
